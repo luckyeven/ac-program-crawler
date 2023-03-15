@@ -1,5 +1,9 @@
 # Web Scraping Algonquin College Program Information with Selenium  
-This is a Python script that scrapes program information from Algonquin College's website (https://www.algonquincollege.com/future-students/programs/). The script utilizes Selenium for web scraping and pandas for data manipulation. The resulting data is saved in a CSV file.
+This is a Python script that scrapes program information from Algonquin College's website (https://www.algonquincollege.com/future-students/programs/). The script utilizes Selenium for web scraping and pandas for data manipulation. The resulting data is saved in a CSV file.  
+### Example of partial data scrapped.
+[result_partial.csv](https://github.com/luckyeven/ac-program-crawler/files/10980747/result_partial.csv)
+
+
 ## Warning  
 
 Please be aware that web scraping may be against the terms of service of some websites. It is your responsibility to ensure that you have the right to access and scrape the target website. Additionally, websites may change their structure at any time, which could break the functionality of this script. Be respectful when using web scraping scripts, and do not overload the server with excessive requests.  
